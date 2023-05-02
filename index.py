@@ -1,6 +1,5 @@
 # Importa a classe No do arquivo no.py
 from no import No
-#import pandas as pd
 
 # Abertura do arquivo .dat        
 file = open('automato2.dat','r')
